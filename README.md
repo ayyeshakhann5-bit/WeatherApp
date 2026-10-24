@@ -1,3 +1,6 @@
+
+
+
 # 🌦️ Weather App using Python and PyQt5
 
 A simple desktop Weather App built using **Python, PyQt5, and the OpenWeatherMap API**. This application allows users to enter a city name and retrieve its current weather information, including temperature, weather description, and a corresponding weather emoji.
@@ -11,6 +14,10 @@ A simple desktop Weather App built using **Python, PyQt5, and the OpenWeatherMap
 - **Error Handling:** Handles common HTTP errors, connection errors, timeouts, and request exceptions.
 - **Graphical User Interface:** Provides a simple and user-friendly desktop interface built with PyQt5.
 - **Custom Styling:** Uses Qt Style Sheets (QSS) to customize fonts, text sizes, alignment, and input borders.
+
+<img width="370" height="487" alt="Screenshot 2026-10-24 at 1 16 40 PM" src="https://github.com/user-attachments/assets/c65b29b6-736c-4294-8e88-3ca658967878" />
+<img width="373" height="519" alt="Screenshot 2026-10-24 at 1 16 23 PM" src="https://github.com/user-attachments/assets/a4447102-46d4-44b2-9a97-d17cdacb9a49" />
+<img width="381" height="521" alt="Screenshot 2026-10-24 at 1 16 11 PM" src="https://github.com/user-attachments/assets/9bd5c150-b207-47ad-bc4a-f350398e1ca0" />
 
 ## 🛠️ Technologies Used
 
