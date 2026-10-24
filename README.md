@@ -89,7 +89,8 @@ api = os.getenv("OPENWEATHER_API_KEY")
 Use this value when constructing your API request.
 
 <img width="370" height="487" alt="Screenshot 2026-10-24 at 1 16 40 PM" src="https://github.com/user-attachments/assets/c65b29b6-736c-4294-8e88-3ca658967878" />
-<img width="373" height="519" alt="Screenshot 2026-10-24 at 1 16 23 PM" src="https://github.com/user-attachments/assets/a4447102-46d4-44b2-9a97-d17cdacb9a49" />
+<img width="370" height="489" alt="Screenshot 2026-10-24 at 2 10 30 PM" src="https://github.com/user-attachments/assets/38634971-a5e9-4f26-9bd6-0647c89f3ef7" />
+
 
 ### 5. Run the application
 
