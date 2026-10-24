@@ -15,8 +15,6 @@ A simple desktop Weather App built using **Python, PyQt5, and the OpenWeatherMap
 - **Graphical User Interface:** Provides a simple and user-friendly desktop interface built with PyQt5.
 - **Custom Styling:** Uses Qt Style Sheets (QSS) to customize fonts, text sizes, alignment, and input borders.
 
-<img width="370" height="487" alt="Screenshot 2026-10-24 at 1 16 40 PM" src="https://github.com/user-attachments/assets/c65b29b6-736c-4294-8e88-3ca658967878" />
-<img width="373" height="519" alt="Screenshot 2026-10-24 at 1 16 23 PM" src="https://github.com/user-attachments/assets/a4447102-46d4-44b2-9a97-d17cdacb9a49" />
 <img width="381" height="521" alt="Screenshot 2026-10-24 at 1 16 11 PM" src="https://github.com/user-attachments/assets/9bd5c150-b207-47ad-bc4a-f350398e1ca0" />
 
 ## 🛠️ Technologies Used
@@ -90,7 +88,8 @@ api = os.getenv("OPENWEATHER_API_KEY")
 
 Use this value when constructing your API request.
 
-**Important:** Never upload your real API key to GitHub. If the key in your current code is real, revoke or regenerate it before publishing your repository.
+<img width="370" height="487" alt="Screenshot 2026-10-24 at 1 16 40 PM" src="https://github.com/user-attachments/assets/c65b29b6-736c-4294-8e88-3ca658967878" />
+<img width="373" height="519" alt="Screenshot 2026-10-24 at 1 16 23 PM" src="https://github.com/user-attachments/assets/a4447102-46d4-44b2-9a97-d17cdacb9a49" />
 
 ### 5. Run the application
 
